@@ -27,8 +27,8 @@
     "license": "",
     "name": "awf_project",
     "scripts": {
-        "build-dev": "npx webpack serve --mode=development",
-        "build-prod": "npx webpack --mode=production"
+        "dev": "npx webpack serve --mode=development",
+        "start": "npx webpack --mode=production"
     },
     "version": "1.0.0"
 }
