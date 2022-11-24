@@ -1,0 +1,10 @@
+*~
+.DS_Store
+.DS_Store?
+/docs/api.html
+/docs/info.html
+/Gruntfile.js
+/node_modules
+/.settings
+/.idea
+/*.iml
